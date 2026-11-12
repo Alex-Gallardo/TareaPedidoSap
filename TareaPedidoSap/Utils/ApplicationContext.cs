@@ -15,6 +15,18 @@ namespace K66_API.Utils
         public static Company SBOCompany { get; set; }
         public static string SBOError { get { return "Error (" + SBOCompany.GetLastErrorCode() + "): " + SBOCompany.GetLastErrorDescription(); } }
 
+        private static string GetSldServer()
+        {
+            string sldServer = ConfigurationManager.AppSettings["SLDServer"];
+            if (string.IsNullOrWhiteSpace(sldServer))
+            {
+                throw new ConfigurationErrorsException(
+                    "Debe configurar appSettings/SLDServer en TareaPedidoSap.exe.config (servidor:puerto).");
+            }
+
+            return sldServer.Trim();
+        }
+
         public static void SetApplication()
         {
             SBOCompany = new Company();
@@ -42,6 +54,7 @@ namespace K66_API.Utils
             }
             B1Company.language = SAPbobsCOM.BoSuppLangs.ln_Spanish;
             B1Company.UseTrusted = false;
+            B1Company.SLDServer = GetSldServer();
             int ret = B1Company.Connect();
             if (ret != 0)
             {
@@ -96,6 +109,7 @@ namespace K66_API.Utils
             }
             B1Company.language = SAPbobsCOM.BoSuppLangs.ln_Spanish;
             B1Company.UseTrusted = true;
+            B1Company.SLDServer = GetSldServer();
             int ret = B1Company.Connect();
             if (ret != 0)
             {
