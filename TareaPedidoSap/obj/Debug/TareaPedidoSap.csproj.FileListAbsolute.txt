@@ -1,0 +1,27 @@
+C:\Proyectos\Implementacion\k66\integracion sistema pedidos\fuente\TareaPedidoSap\TareaPedidoSap\bin\Debug\TareaPedidoSap.exe.config
+C:\Proyectos\Implementacion\k66\integracion sistema pedidos\fuente\TareaPedidoSap\TareaPedidoSap\bin\Debug\TareaPedidoSap.exe
+C:\Proyectos\Implementacion\k66\integracion sistema pedidos\fuente\TareaPedidoSap\TareaPedidoSap\bin\Debug\TareaPedidoSap.pdb
+C:\Proyectos\Implementacion\k66\integracion sistema pedidos\fuente\TareaPedidoSap\TareaPedidoSap\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\Implementacion\k66\integracion sistema pedidos\fuente\TareaPedidoSap\TareaPedidoSap\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\Implementacion\k66\integracion sistema pedidos\fuente\TareaPedidoSap\TareaPedidoSap\obj\Debug\TareaPedidoSap.Properties.Resources.resources
+C:\Proyectos\Implementacion\k66\integracion sistema pedidos\fuente\TareaPedidoSap\TareaPedidoSap\obj\Debug\TareaPedidoSap.csproj.GenerateResource.cache
+C:\Proyectos\Implementacion\k66\integracion sistema pedidos\fuente\TareaPedidoSap\TareaPedidoSap\obj\Debug\TareaPedidoSap.csproj.CoreCompileInputs.cache
+C:\Proyectos\Implementacion\k66\integracion sistema pedidos\fuente\TareaPedidoSap\TareaPedidoSap\obj\Debug\TareaPedidoSap.csproj.CopyComplete
+C:\Proyectos\Implementacion\k66\integracion sistema pedidos\fuente\TareaPedidoSap\TareaPedidoSap\obj\Debug\TareaPedidoSap.exe
+C:\Proyectos\Implementacion\k66\integracion sistema pedidos\fuente\TareaPedidoSap\TareaPedidoSap\obj\Debug\TareaPedidoSap.pdb
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\bin\Debug\TareaPedidoSap.exe.config
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\bin\Debug\TareaPedidoSap.exe
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\bin\Debug\TareaPedidoSap.pdb
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\bin\Debug\Newtonsoft.Json.dll
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\bin\Debug\Newtonsoft.Json.xml
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\obj\Debug\TareaPedidoSap.csproj.AssemblyReference.cache
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\obj\Debug\Interop.SAPbobsCOM.dll
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\obj\Debug\TareaPedidoSap.csproj.ResolveComReference.cache
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\obj\Debug\TareaPedidoSap.Properties.Resources.resources
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\obj\Debug\TareaPedidoSap.csproj.GenerateResource.cache
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\obj\Debug\TareaPedidoSap.csproj.CoreCompileInputs.cache
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\obj\Debug\TareaPedidoSap.csproj.CopyComplete
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\obj\Debug\TareaPedidoSap.exe
+C:\osl\TareaPedidoSap\TareaPedidoSap\TareaPedidoSap\obj\Debug\TareaPedidoSap.pdb

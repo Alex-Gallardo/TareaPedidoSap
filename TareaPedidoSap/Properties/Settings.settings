@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TareaPedidoSap.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="cadenaConexionSQL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=K66-APPS;DataBase=POS-SmartK66;User Id=sa;Password=8$MPX75zPCxd;</Value>
+    </Setting>
+    <Setting Name="urlApi" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://122.8.191.3:8090/k66api/api/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
